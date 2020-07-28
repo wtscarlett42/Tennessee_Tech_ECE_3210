@@ -8,7 +8,7 @@
 
 3.  Course coordinator: Dr. Ali Alouani
 
-4.  Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017. Supplemental materials: GitHUB, Python
+4.  Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017. Supplemental materials: GitHub, Python
 
 5.  Course information:
 
