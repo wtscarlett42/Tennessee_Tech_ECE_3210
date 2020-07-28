@@ -1,10 +1,8 @@
 1.  ECE 3210 -- Control Systems Analysis
 
-2.  Course credit hours: 3
-
-> Contact hours per week: 3
->
-> Credit category: Engineering Topics
+2.  Course credit hours: 3   
+Contact hours per week: 3  
+Credit category: Engineering Topics
 
 3.  Course coordinator: Dr. Ali Alouani
 
@@ -35,8 +33,7 @@
 | SO1 | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.                                     |
 | SO7 | An ability to acquire and apply new knowledge as needed,  using appropriate learning strategies.                        |
 
-7.  Course topics:
-
+7.  Course topics:  
   1.  Mathematical background: Laplace transform and applications (5%)
   2.  Transfer functions and signal-glow graphs: impulse response,
     transfer function, block diagram, signal flow graph (5%)
@@ -51,14 +48,9 @@
   7.  Root-locus technique (15%)
   8.  Tests (10%)
 
-> Program criteria (curriculum) addressed by this course:
+  Program criteria (curriculum) addressed by this course:  
+  1. ...engineering topics necessary to model and analyze electrical and mechanical systems.
 
-1.  ...engineering topics necessary to model and analyze electrical and
-    mechanical systems.
-
-```{=html}
-<!-- -->
-```
 8.  Additional topics, assignments, or requirements for dual-level
     (4000/5000) course:\
     N/A
