@@ -32,7 +32,7 @@ Credit category: Engineering Topics
 | SO1 | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.                                     |
 | SO7 | An ability to acquire and apply new knowledge as needed,  using appropriate learning strategies.                        |
 
-7.  Course topics:  
+7.  Course topics:
 
    1.  Mathematical background: Laplace transform and applications (5%)
    2.  Transfer functions and signal-glow graphs: impulse response,
