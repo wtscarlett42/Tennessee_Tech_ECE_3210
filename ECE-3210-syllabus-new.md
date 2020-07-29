@@ -18,18 +18,20 @@ Credit category: Engineering Topics
 
 
 6. Course instructional outcomes:  
-|   Course Outcome No. |   Course Outcome (CO)    | ABET Student  Outcome |
-| -------------------  | ------------------------ | -------------------- |
-| CO1                 | Model dynamical systems using transfer function and state space representation.  | SO7                   |
-| CO2         | Analyze the stability of linear invariant systems using Routh-Hurwitz stability.| SO7                  |
-| CO3         | Identify the parameters that characterize the  transient and steady-state performance of LTI systems.| SO7                  |
-| CO4         | Determine analytically the performance parameters for prototype second order systems.   | SO1                  |
+
+   |   Course Outcome No. |   Course Outcome (CO)    | ABET Student  Outcome |
+   | -------------------  | ------------------------ | -------------------- |
+   | CO1                 | Model dynamical systems using transfer function and state space representation.  | SO7                   |
+   | CO2         | Analyze the stability of linear invariant systems using Routh-Hurwitz stability.| SO7                  |
+   | CO3         | Identify the parameters that characterize the  transient and steady-state performance of LTI systems.| SO7                  |
+   | CO4         | Determine analytically the performance parameters for prototype second order systems.   | SO1                  |
 
    ABET criterion 3 Student Outcomes addressed by this course:
+
    | SO No. |  Student Outcome (SO)                                        |
-|----- | ---------------------------------------------------------------|
-| SO1 | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.                                     |
-| SO7 | An ability to acquire and apply new knowledge as needed,  using appropriate learning strategies.                        |
+   |----- | ---------------------------------------------------------------|
+   | SO1 | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.                                     |
+   | SO7 | An ability to acquire and apply new knowledge as needed,  using appropriate learning strategies.                        |
 
 7. Course topics:
    1.  Mathematical background: Laplace transform and applications (5%)
