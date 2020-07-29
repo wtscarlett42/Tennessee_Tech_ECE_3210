@@ -8,14 +8,12 @@ Credit category: Engineering Topics
 
 4.  Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017. Supplemental materials: GitHub, Python
 
-5.  Course information:
+5. Course information:
 
-   |2020 Catalog description  | Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools.|
-   |------------------------ | ------------------------------------------------------------------------------------------------------------------|
-   |Prerequisite(s)           | PHYS 2110 and C or better in either ECE 3010 or ME 2330.|
-   |Course type               | Selected elective for EE, EE-VE, and CmpE; Required for EE-Mech|
-
-
+   | 2020 Catalog description  | Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools. |
+   |-------------------------- | ------------------------------------------------------------------------------------------------------------------|
+   | Prerequisite(s)           | PHYS 2110 and C or better in either ECE 3010 or ME 2330. |
+   | Course type               | Selected elective for EE, EE-VE, and CmpE; Required for EE-Mech |
 
 6. Course instructional outcomes:  
 
