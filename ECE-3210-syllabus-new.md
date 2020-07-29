@@ -47,7 +47,6 @@ Credit category: Engineering Topics
   6.  Time Domain analysis of linear systems (15%)
   7.  Root-locus technique (15%)
   8.  Tests (10%)
-
   Program criteria (curriculum) addressed by this course:  
   1. ...engineering topics necessary to model and analyze electrical and mechanical systems.
 
