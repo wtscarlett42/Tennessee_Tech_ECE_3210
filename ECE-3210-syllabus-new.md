@@ -10,10 +10,10 @@ Credit category: Engineering Topics
 
 5.  Course information:
 
-  2020 Catalog description  | Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools.
-  ------------------------- | -------------------------------------------------------------------------------------------------------------------
-  Prerequisite(s)           | PHYS 2110 and C or better in either ECE 3010 or ME 2330.
-  Course type               | Selected elective for EE, EE-VE, and CmpE; Required for EE-Mech
+   |2020 Catalog description  | Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools.|
+   |------------------------ | ------------------------------------------------------------------------------------------------------------------|
+   |Prerequisite(s)           | PHYS 2110 and C or better in either ECE 3010 or ME 2330.|
+   |Course type               | Selected elective for EE, EE-VE, and CmpE; Required for EE-Mech|
 
 
 
