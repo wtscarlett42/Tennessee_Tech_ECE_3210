@@ -1,8 +1,8 @@
 1.  ECE 3210 -- Control Systems Analysis
 
-2.  Course credit hours: 3   
-Contact hours per week: 3  
-Credit category: Engineering Topics
+2.  Course credit hours: 3  
+    Contact hours per week: 3    
+    Credit category: Engineering Topics
 
 3.  Course coordinator: Dr. Ali Alouani
 
