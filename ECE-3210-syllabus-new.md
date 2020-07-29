@@ -18,7 +18,7 @@ Credit category: Engineering Topics
 
 
 6.  Course instructional outcomes:  
-|   Course Outcome No. |   Course Outcome (CO)    | ABET Student<br> Outcome |
+|   Course Outcome No. |   Course Outcome (CO)    | ABET Student  Outcome |
 | -------------------  | ------------------------ | -------------------- |
 | CO1                 | Model dynamical systems using transfer function and state space representation.  | SO7                   |
 | CO2         | Analyze the stability of linear invariant systems using Routh-Hurwitz stability.| SO7                  |
