@@ -17,7 +17,7 @@ Credit category: Engineering Topics
 
 
 
-6. Course instructional outcomes:
+6. Course instructional outcomes:  
 
 |   Course Outcome No. |   Course Outcome (CO)    | ABET Student  Outcome |
 | -------------------  | ------------------------ | -------------------- |
