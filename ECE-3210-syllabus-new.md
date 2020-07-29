@@ -47,8 +47,8 @@ Credit category: Engineering Topics
    7.  Root-locus technique (15%)
    8.  Tests (10%)
 
-  Program criteria (curriculum) addressed by this course:  
-  1. ...engineering topics necessary to model and analyze electrical and mechanical systems.
+   Program criteria (curriculum) addressed by this course:  
+   1. ...engineering topics necessary to model and analyze electrical and mechanical systems.
 
 8.  Additional topics, assignments, or requirements for dual-level
     (4000/5000) course:\
