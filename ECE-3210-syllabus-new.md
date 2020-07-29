@@ -17,8 +17,7 @@ Credit category: Engineering Topics
 
 
 
-6.  Course instructional outcomes:
-
+6.  Course instructional outcomes:  
 |   Course Outcome No. |   Course Outcome (CO)    | ABET Student<br> Outcome |
 | -------------------  | ------------------------ | -------------------- |
 | CO1                 | Model dynamical systems using transfer function and state space representation.  | SO7                   |
@@ -26,8 +25,7 @@ Credit category: Engineering Topics
 | CO3         | Identify the parameters that characterize the  transient and steady-state performance of LTI systems.| SO7                  |
 | CO4         | Determine analytically the performance parameters for prototype second order systems.   | SO1                  |
 
-> ABET criterion 3 Student Outcomes addressed by this course:
-
+  ABET criterion 3 Student Outcomes addressed by this course:
 | SO No. |  Student Outcome (SO)                                        |
 |----- | ---------------------------------------------------------------|
 | SO1 | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.                                     |
@@ -47,6 +45,7 @@ Credit category: Engineering Topics
   6.  Time Domain analysis of linear systems (15%)
   7.  Root-locus technique (15%)
   8.  Tests (10%)
+
   Program criteria (curriculum) addressed by this course:  
   1. ...engineering topics necessary to model and analyze electrical and mechanical systems.
 
