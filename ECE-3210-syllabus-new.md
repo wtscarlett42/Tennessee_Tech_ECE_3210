@@ -18,6 +18,7 @@ Credit category: Engineering Topics
 
 
 6.  Course instructional outcomes:  
+
 |   Course Outcome No. |   Course Outcome (CO)    | ABET Student  Outcome |
 | -------------------  | ------------------------ | -------------------- |
 | CO1                 | Model dynamical systems using transfer function and state space representation.  | SO7                   |
