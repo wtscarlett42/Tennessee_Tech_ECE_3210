@@ -2,10 +2,10 @@
 
 ##  Course instructor:
 
-[Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)
-    [website](https://josephcslater.github.io/josephcslater/)
-    [email](mailto:jslater@tntech.edu)
-    phone: 931-372-3172
+[Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)  
+[website](https://josephcslater.github.io/josephcslater/): https://josephcslater.github.io/josephcslater/  
+[email](mailto:jslater@tntech.edu): mailto:jslater@tntech.edu  
+phone: 931-372-3172
 
 ##  Materials:
     Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017.  
