@@ -2,7 +2,7 @@
 
 ##  Course instructor:
 
-    [Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)
+[Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)
     [website](https://josephcslater.github.io/josephcslater/)
     [email](mailto:jslater@tntech.edu)
     phone: 931-372-3172
