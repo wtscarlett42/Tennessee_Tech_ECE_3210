@@ -1,6 +1,7 @@
-#  ECE 3210 -- Control Systems Analysis
+#  ECE 3210: Control Systems Analysis
 
 ##  Course instructor:
+
     [Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)
     [website](https://josephcslater.github.io/josephcslater/)
     [email](mailto:jslater@tntech.edu)
