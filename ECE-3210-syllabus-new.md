@@ -54,7 +54,7 @@ Office Hours: Thursday 11-12. Will be updated based on student availability (via
     8.  Tests (10%)
 
 ## Grading and evaluation procedures
-    There will be two tests and a final exam graded on a straight scale ($\geq 90 = A$,$\geq 80 = B$, $\geq 70 = C$, $\geq 60 = D$, $< 59 = F$). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do.
+    There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do.
 
     External homework will be minimal, but worth 10% (1 letter grade)
 
