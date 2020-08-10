@@ -7,12 +7,12 @@
 
 ##  Course instructor and contact information
 
-    [Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)  
-    [website](https://josephcslater.github.io/josephcslater/): https://josephcslater.github.io/josephcslater/  
-    [email](mailto:jslater@tntech.edu): jslater@tntech.edu (less reliable)  
-    phone: 931-372-3172 (less reliable)  
-    iLearn: (most reliable)
-    Office Hours: Thursday 11-12. Will be updated based on student availability (via iLearn communication)
+[Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)  
+[website](https://josephcslater.github.io/josephcslater/): https://josephcslater.github.io/josephcslater/  
+[email](mailto:jslater@tntech.edu): jslater@tntech.edu (less reliable)  
+phone: 931-372-3172 (less reliable)  
+iLearn: (most reliable)
+Office Hours: Thursday 11-12. Will be updated based on student availability (via iLearn communication)
 
 ##  Materials/References
     Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017.  
