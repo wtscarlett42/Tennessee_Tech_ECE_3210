@@ -1,6 +1,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/mathtex-script-type.min.js" integrity="sha384-LJ2FmexL77rmGm6SIpxq7y+XA6bkLzGZEgCywzKOZG/ws4va9fUVu2neMjvc3zdv" crossorigin="anonymous"></script>
 
 <script type="math/tex">x+\sqrt{1-x^2}</script>
+≤
 
 #   ECE 3210-001: Control Systems Analysis
     Tennessee Tech University, Department of Electrical and Computer Engineering  
