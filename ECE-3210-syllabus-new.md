@@ -4,7 +4,7 @@
 Tennessee Tech University, Department of Electrical and Computer Engineering  
 Fall Semester, 2020  
 Tuesday/Thursday, 12:00 pm-01:20 pm  
-Brown 320  
+Brown 320    
 
 ##  Course instructor and contact information
 
@@ -17,7 +17,7 @@ Office Hours: Thursday 11-12. Will be updated based on student availability (via
 
 ##  Materials/References
 Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017.  
-Supplemental materials: [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210), Python (Anaconda Python), Matlab
+Supplemental materials: [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210), [Anaconda Python](https://www.anaconda.com/products/individual), Matlab, [Octave](https://www.gnu.org/software/octave/) with [Controls Toolbox](https://wiki.octave.org/Category:Octave_Forge)
 
 ##  Course description
 Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools.
