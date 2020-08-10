@@ -1,4 +1,8 @@
 
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 #   ECE 3210-001: Control Systems Analysis
     Tennessee Tech University, Department of Electrical and Computer Engineering  
     Fall Semester, 2020  
