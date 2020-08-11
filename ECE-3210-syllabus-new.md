@@ -51,7 +51,7 @@ transition matrix, characteristic equation (10%)
 
 ##  Course Policies
 
-[comment]: # ### Grading and evaluation procedures
+<!-- a normal html comment   ### Grading and evaluation procedures -->
 
 ### Exams (70%)
 There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do.
