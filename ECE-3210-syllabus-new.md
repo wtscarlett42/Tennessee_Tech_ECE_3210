@@ -1,7 +1,7 @@
 
 
-#   ECE 3210-001: Control Systems Analysis
-Tennessee Tech University, Department of Electrical and Computer Engineering  
+#   Tennessee Tech University, Department of Electrical and Computer Engineering
+ECE 3210-001: Control Systems Analysis  
 Fall Semester, 2020  
 Tuesday/Thursday, 12:00 pm-01:20 pm  
 Brown 320    
@@ -16,7 +16,7 @@ iLearn: (most reliable)
 Office Hours: Thursday 11-12. Will be updated based on student availability (via iLearn communication)
 
 ##  Materials/References
-Textbook: Modern Control Systems, R. C. Dorf, 13<sup>th</sup> Edition, Pearson, 2017.  
+Textbook: Modern Control Systems, R. C. Dorf, 13th Edition, Pearson, 2017.  
 Supplemental materials: [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210), [Anaconda Python](https://www.anaconda.com/products/individual), Matlab, [Octave](https://www.gnu.org/software/octave/) with [Controls Toolbox](https://wiki.octave.org/Category:Octave_Forge)
 
 ##  Course description
@@ -26,7 +26,7 @@ Modern and classical methods of control system analysis of continuous-time syste
 PHYS 2110 and C or better in either ECE 3010 or ME 2330.
 
 ##  Major Teaching Method
-Flipped classroom- online lectures/video with in-class problem solving.
+Flipped classroom. Online lectures/video with in-class/home problem solving.
 
 ##  Course instructional outcomes
 - Model dynamical systems using transfer function and state space representation.
@@ -49,17 +49,35 @@ transition matrix, characteristic equation (10%)
 7.  Root-locus technique (15%)
 8.  Tests (10%)
 
-## Grading and evaluation procedures
+##  Course Policies
+
+[comment]: # ### Grading and evaluation procedures
+
+### Exams (70%)
 There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do.
 
-External homework will be minimal, but worth 10% (1 letter grade)
+### Homework (10%)
+External homework will be minimal, but worth 10%.
 
-#### Professionalism
-Professionalism is a measure of your behavior regarding expected practice as an engineer. This includes aspects such as attendance, note taking, consistency of performance, tenacity in problem solution, leadership, legibility and organization of problem solutions, clarity of communication, etc. For details on expected behavior, please consult *The Unwritten Rules of Engineering* by W.J. King, with revision by J.G. Skakoon. For your own professional development, I highly recommend that you [own a personal copy](https://www.amazon.com/Unwritten-Laws-Engineering-James-Skakoon-dp-0791861961/dp/0791861961/ref=mt_other?_encoding=UTF8&me=&qid=). If you read an older edition of the book (prior to Skakoon), please be attentive to the fact that some of the comments, especially those regarding polishing shoes, are considered rather quaint today. Two points will be automatically be deducted from your professionalism score each time you receive less than a 70% on an exam *and* do not see me personally within one week after receiving the exam grade to clear up confusion.
+### Student Academic Misconduct Policy
+Maintaining high standards of academic integrity in every class at Tennessee Tech is critical to the reputation of Tennessee Tech, its students, alumni, and the employers of Tennessee Tech graduates. The Student Academic Misconduct Policy describes the definitions of academic misconduct and policies and procedures for addressing Academic Misconduct at Tennessee Tech.  For details, view the Tennessee Tech’s Policy 217 – Student Academic Misconduct at Policy Central.
+ATTENDANCE POLICY
+(Any additional information the instructor may wish to include. Remove this line.)
 
-##  Attendance
+###  Attendance
 Attendance is not required but for examinations. Given the style of the class, all lectures will be received from "home" with in-class work focusing on practicing skills learned online.
 Given the current situation with COVID-19, only half of the class will be allowed in the classroom at any time. You will be assigned to a cohort; Tuesday or Thursday. We will certainly have to be flexible as the semester progresses.
 
-##  Disability Accommodation
+###  Class Participation
+Participation is optional, but my availability to help you is predicated on regular attendance (online or in person) and consistent participation.
+
+###  DISABILITY ACCOMMODATION
+Students with a disability requiring accommodations should contact the Accessible Education Center (AEC).  An Accommodation Request (AR) should be completed as soon as possible, preferably by the end of the first week of the course.  The AEC is located in the Roaden University Center, Room 112; phone 931-372-6119. For details, view the Tennessee Tech’s Policy 340 – Services for Students with Disabilities at Policy Central.
+
+###  Disability Accommodation
 Students with a disability requiring accommodations should contact the Office of Disability Services (ODS). An Accommodation Request (AR) should be completed as soon as possible, preferably by the end of the first week of the course. The ODS is located in the Roaden University Center, Room 112; phone 372-6119.
+
+### Professionalism (10% of grade)
+Professionalism is a measure of your behavior regarding expected practice as an engineer. This includes aspects such as attendance, note taking, consistency of performance, tenacity in problem solution, leadership, **legibility** and organization of problem solutions, clarity of communication, etc. For details on expected behavior, please consult *The Unwritten Rules of Engineering* by W.J. King, with revision by J.G. Skakoon. For your own professional development, I highly recommend that you [own a personal copy](https://www.amazon.com/Unwritten-Laws-Engineering-James-Skakoon-dp-0791861961/dp/0791861961/ref=mt_other?_encoding=UTF8&me=&qid=). If you read an older edition of the book (prior to Skakoon), please be attentive to the fact that some of the comments, for example those regarding polishing shoes, are considered rather quaint today.
+
+**Two points will be automatically be deducted from your professionalism score** each time you receive less than a 70% on an exam *and* do not see me personally within one week after receiving the exam grade to clear up confusion.
