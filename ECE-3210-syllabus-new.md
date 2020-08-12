@@ -12,7 +12,8 @@ Brown 320
 [website](https://josephcslater.github.io/josephcslater/): https://josephcslater.github.io/josephcslater/  
 [email](mailto:jslater@tntech.edu): jslater@tntech.edu (less reliable)  
 phone: 931-372-3172 (less reliable)  
-iLearn: (most reliable)
+iLearn: (most reliable)  
+MSTeams: Please don't use this for communication outside of class time and office hours.  **Do** use this for communication during class and office hours.  
 Office Hours: Thursday 11-12. Will be updated based on student availability (via iLearn communication)
 
 ##  Materials/References
@@ -60,9 +61,11 @@ There will be two tests and a final exam graded on a straight scale (≥ 90 = A,
 Homework is intended to challenge you to ensure that you are aware of whether you are on track or not. There is no restriction on working with others in the class, but obtaining solutions from others is plagiarism. Homework will be of a variety of formats depending on the objective.
 
 ###  Attendance
-Attendance is not required but for examinations. Given the style of the class, all lectures will be received from "home" with in-class work focusing on practicing skills learned online.
+The first day of class will be online.
 
-Given the current situation with COVID-19, only half of the class will be allowed in the classroom at any time. You will be assigned to a cohort; Tuesday or Thursday. We will certainly have to be flexible as the semester progresses. I will have limited ability to accommodate requests. Not all requests will be fulfilled. 
+Attendance is not required except for examinations. Given the style of the class, all lectures will be received at "home" (where ever you want to watch them) with in-class work focusing on practicing skills learned online.
+
+Given the current situation with COVID-19, only half of the class will be allowed in the classroom at any time. You will be assigned to a cohort; Tuesday or Thursday. We will certainly have to be flexible as the semester progresses. I will have limited ability to accommodate requests. Not all requests will be fulfilled.
 
 ###  Class Participation
 Participation is optional, but my availability to help you is predicated on regular attendance (online or in person) and consistent participation.
