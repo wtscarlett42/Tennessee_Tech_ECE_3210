@@ -53,31 +53,27 @@ transition matrix, characteristic equation (10%)
 
 <!-- a normal html comment   ### Grading and evaluation procedures -->
 
-### Exams (70%)
-There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do.
+### Exams (80%)
+There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do. Exams must be conducted without external assistance of any form unless explicitely allowed by the instructor.
 
 ### Homework (10%)
-External homework will be minimal, but worth 10%.
-
-### Student Academic Misconduct Policy
-Maintaining high standards of academic integrity in every class at Tennessee Tech is critical to the reputation of Tennessee Tech, its students, alumni, and the employers of Tennessee Tech graduates. The Student Academic Misconduct Policy describes the definitions of academic misconduct and policies and procedures for addressing Academic Misconduct at Tennessee Tech.  For details, view the Tennessee Tech’s Policy 217 – Student Academic Misconduct at Policy Central.
-ATTENDANCE POLICY
-(Any additional information the instructor may wish to include. Remove this line.)
+Homework is intended to challenge you to ensure that you are aware of whether you are on track or not. There is no restriction on working with others in the class, but obtaining solutions from others is plagiarism. Homework will be of a variety of formats depending on the objective.
 
 ###  Attendance
 Attendance is not required but for examinations. Given the style of the class, all lectures will be received from "home" with in-class work focusing on practicing skills learned online.
-Given the current situation with COVID-19, only half of the class will be allowed in the classroom at any time. You will be assigned to a cohort; Tuesday or Thursday. We will certainly have to be flexible as the semester progresses.
+
+Given the current situation with COVID-19, only half of the class will be allowed in the classroom at any time. You will be assigned to a cohort; Tuesday or Thursday. We will certainly have to be flexible as the semester progresses. I will have limited ability to accommodate requests. Not all requests will be fulfilled. 
 
 ###  Class Participation
 Participation is optional, but my availability to help you is predicated on regular attendance (online or in person) and consistent participation.
 
-###  DISABILITY ACCOMMODATION
-Students with a disability requiring accommodations should contact the Accessible Education Center (AEC).  An Accommodation Request (AR) should be completed as soon as possible, preferably by the end of the first week of the course.  The AEC is located in the Roaden University Center, Room 112; phone 931-372-6119. For details, view the Tennessee Tech’s Policy 340 – Services for Students with Disabilities at Policy Central.
-
 ###  Disability Accommodation
-Students with a disability requiring accommodations should contact the Office of Disability Services (ODS). An Accommodation Request (AR) should be completed as soon as possible, preferably by the end of the first week of the course. The ODS is located in the Roaden University Center, Room 112; phone 372-6119.
+Students with a disability requiring academic adjustments and accommodations must contact the Accessible Education Center (AEC). AEC is located in the Roaden
+University Center, Room 112; phone 372-6119. For more information see
+Tennessee Tech Policy 340 (Services for Students with Disabilities) at
+[www.tntech.edu/policies](www.tntech.edu/policies).
 
 ### Professionalism (10% of grade)
 Professionalism is a measure of your behavior regarding expected practice as an engineer. This includes aspects such as attendance, note taking, consistency of performance, tenacity in problem solution, leadership, **legibility** and organization of problem solutions, clarity of communication, etc. For details on expected behavior, please consult *The Unwritten Rules of Engineering* by W.J. King, with revision by J.G. Skakoon. For your own professional development, I highly recommend that you [own a personal copy](https://www.amazon.com/Unwritten-Laws-Engineering-James-Skakoon-dp-0791861961/dp/0791861961/ref=mt_other?_encoding=UTF8&me=&qid=). If you read an older edition of the book (prior to Skakoon), please be attentive to the fact that some of the comments, for example those regarding polishing shoes, are considered rather quaint today.
 
-**Two points will be automatically be deducted from your professionalism score** each time you receive less than a 70% on an exam *and* do not see me personally within one week after receiving the exam grade to clear up confusion.
+**Two points (of the 10) will be automatically be deducted from your professionalism score** each time you receive less than a 70% on an exam *and* do not interact with me synchronously within one week after receiving the exam grade to clear up confusion.
