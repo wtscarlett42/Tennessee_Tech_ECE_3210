@@ -1,6 +1,6 @@
-scipy
-matplotlib
+# scipy
+# matplotlib
 pysfg
 graphviz
-sympy
-control
+# sympy
+# control
