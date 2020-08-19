@@ -9,6 +9,7 @@ dependencies:
   - slycot
   - control
   - graphviz
+  - xdg
   - pip:
     - pysfg
     - graphviz
