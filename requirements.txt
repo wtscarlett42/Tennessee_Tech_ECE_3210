@@ -3,5 +3,4 @@ matplotlib
 pysfg
 graphviz
 sympy
-slycot
 control
