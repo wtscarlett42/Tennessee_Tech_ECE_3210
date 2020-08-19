@@ -8,3 +8,6 @@ dependencies:
   - matplotlib
   - slycot
   - control
+  - pip:
+    - pysfg
+    - graphviz
