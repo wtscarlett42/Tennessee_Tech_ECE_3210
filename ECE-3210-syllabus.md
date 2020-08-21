@@ -55,7 +55,9 @@ transition matrix, characteristic equation (10%)
 <!-- a normal html comment   ### Grading and evaluation procedures -->
 
 ### Exams (80%)
-There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do. Exams must be conducted without external assistance of any form unless explicitely allowed by the instructor.
+There will be two tests and a final exam graded on a straight scale (≥ 90 = A, ≥ 80 = B, ≥ 70 = C, ≥ 60 = D, < 59 = F). The final exam will count for two test grades. The lowest exam grade of the four will be dropped. Solutions will be discussed during the lecture following the exam if time permits. All grading discrepancies must be brought up in writing no later than one week after the exam is returned. A simple note describing your contentions will do. Exams must be conducted without external assistance of any form unless explicitly allowed by the instructor.
+
+Exams will be given remotely using Respondus Monitor. Note that Tennessee Tech requires students to have [a computer with certain capabilities](https://www.tntech.edu/engineering/programs/resources/comp-specs.php).
 
 ### Homework (10%)
 Homework is intended to challenge you to ensure that you are aware of whether you are on track or not. There is no restriction on working with others in the class, but obtaining solutions from others is plagiarism. Homework will be of a variety of formats depending on the objective.
@@ -81,7 +83,7 @@ Professionalism is a measure of your behavior regarding expected practice as an 
 
 **Two points (of the 10) will be automatically be deducted from your professionalism score** each time you receive less than a 70% on an exam *and* do not interact with me synchronously within one week after receiving the exam grade to clear up confusion.
 
-## COVID – 19 
+## COVID – 19
 1.	Students must take personal responsibility in following the recommended CDC COVID-19 guidelines. Students are expected follow all COVID-19 directives published by Tennessee Tech including, but not limited to, notices on Tennessee Tech’s webpage, building and facilities signage, and similar publications.  The university’s Return to Campus Student Handbook can be found at https://www.tntech.edu/return/index.php.
 2.	According to Tennessee Tech University’s protocols, face coverings must be worn (covering the mouth and nose) by students in the classroom at all times.
 3.	Students must abide by predetermined social distancing guidelines and seating arrangements. Movement during class sessions should be limited as to not endanger other students or faculty. Students should be conscious and respectful of others and their health concerns.
