@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+~$E-3210-syllabus.doc
+
 # C extensions
 *.so
 
