@@ -11,7 +11,4 @@ dependencies:
   - graphviz
   - xdg
   - pip:
-    - pysfg
-    - graphviz
-    - strictyaml
-    - networkx
+    - -r file:requirements.txt
