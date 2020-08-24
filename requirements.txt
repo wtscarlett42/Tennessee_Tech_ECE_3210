@@ -4,3 +4,5 @@ pysfg
 graphviz
 # sympy
 # control
+strictyaml
+networkx
