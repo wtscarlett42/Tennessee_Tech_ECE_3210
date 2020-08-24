@@ -9,3 +9,6 @@ Please select the syllabus above to see it rendered to html.
 Individual notebooks (files with the extention ``ipynb``) can be run *within* the virtual machine created with one of the two links in the sentences right above this. 
 
 **If you click on the names outside of the virtual machine, you can't run any of the demos, you can just read them!!!**
+
+
+If you wish to learn how to install Scientific Python on your own computer, please see my [introductory class readme](https://github.com/josephcslater/Introduction_to_Python/blob/master/README.rst). 
