@@ -4,7 +4,8 @@ Please select the syllabus above to see it rendered to html.
 
 [Run the notebooks online! Jupyter style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master) (classic- includes video telecon)
 
-[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master?urlpath=lab) (more full-featured editors)
+[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master?urlpath=lab) (more full-featured editors)  
+Note: interactive widgets don't work well for me in this yet. 
 
 Individual notebooks (files with the extention ``ipynb``) can be run *within* the virtual machine created with one of the two links in the sentences right above this. 
 
