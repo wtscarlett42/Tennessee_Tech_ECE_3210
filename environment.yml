@@ -10,5 +10,6 @@ dependencies:
   - control
   - graphviz
   - xdg
+  - widgetsnbextension
   - pip:
     - -r file:requirements.txt
