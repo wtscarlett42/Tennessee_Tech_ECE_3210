@@ -13,5 +13,6 @@ dependencies:
   - nodejs
   - widgetsnbextension
   - ipywidgets
+  - pip
   - pip:
     - -r file:requirements.txt
