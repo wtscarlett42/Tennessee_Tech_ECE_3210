@@ -6,3 +6,4 @@ graphviz
 # control
 strictyaml
 networkx
+jupyter_contrib_nbextensions
