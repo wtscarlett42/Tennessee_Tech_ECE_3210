@@ -14,14 +14,16 @@ def sdof_resp(x0=1, v0=0.1, m=1, c=0.25, k=10, tmax=10):
                      omega) / omega_d
         Phi0 = np.arctan2(x0 * omega_d, (v0 + zeta * omega * x0))
         x = X0 * np.exp(-zeta * omega * t) * np.sin(omega_d * t + Phi0)
-        
+
         expdecay = X0 * np.exp(-zeta * omega * t)
         plt.plot(t, expdecay,'--', label = 'Decay Envelope')
         plt.plot(t, -expdecay, '--')
         plt.text(tmax/3, X0 * np.exp(-zeta * omega * tmax/3) + X0*0.03, 'Decay Envelope, $X_0e^{-\zeta\omega_nt}$')
-
+        period = 2.0 * np.pi/omega_d
+        plt.annotate(text='', xy=(1*period,-0.9*X0), xytext=(2*period,-0.9*X0), arrowprops=dict(arrowstyle='<->'))
+        plt.text(1.5*period, -X0*1.0, 'Period', ha = 'center')
     else:
-    
+
         C1 = (x0 * omega * (zeta + np.sqrt(zeta**2 - 1)) + v0
               ) / 2 / omega / np.sqrt(zeta**2 - 1)
         C2 = (-x0 * omega * (zeta - np.sqrt(zeta**2 - 1)) - v0
@@ -34,7 +36,7 @@ def sdof_resp(x0=1, v0=0.1, m=1, c=0.25, k=10, tmax=10):
                 (-zeta - np.sqrt(zeta**2 - 1)) * omega * tmax/3)
         plt.axis([0, tmax, -np.abs(C1+C2)*1.1, np.abs(C1+C2)*1.1])
         plt.text(tmax/3, x_label + x[0]*0.03, 'Overdamped response')
-        
+
 
     plt.plot(t, np.real(x), label = 'Response')
     plt.xlabel('$t$ (sec)')
