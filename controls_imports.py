@@ -3,6 +3,13 @@ import matplotlib.pyplot as plt
 import scipy as sp
 import control as ctrl
 from ipywidgets import interact
+import sympy as sym
+from sympy.abc import *
+sym.init_printing()
+s, t, omega= sym.symbols("s, t, omega", real = True)
+x = sym.Function('x')
+y = sym.Function('y')
+f = sym.Function('f')
 
 def sdof_resp(x0=1, v0=0.1, m=1, c=0.25, k=10, tmax=10):
     t = np.linspace(0, tmax, 200)
