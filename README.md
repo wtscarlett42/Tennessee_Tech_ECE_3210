@@ -14,3 +14,5 @@ Individual notebooks (files with the extention ``ipynb``) can be run *within* th
 **If you click on the names outside of the virtual machine, you can't run any of the demos, you can just read them!!!**
 
 If you wish to learn how to install Scientific Python on your own computer, please see my [introductory class readme](https://github.com/josephcslater/Introduction_to_Python/blob/master/README.rst). 
+
+If you wish ti *edit* these notes and send me corrections (you would learn a lot doing this), you need to **fork** the repository, and clone from your own account. You can then edit on your computer, commite the back to your repository then submit a pull request in your repository. I'll review and approve or deny your changes. Good practice is to just try with a single typo correction (it can't ba hard to find them!). 
