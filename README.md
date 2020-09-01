@@ -6,7 +6,7 @@ To view the notes properly, you need to either have a sufficient python installa
 
 [Run the notebooks online! Jupyter style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master) (classic- includes video telecon)
 
-[All new faster launching](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=<https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master>) (still testing)
+[All new faster launching](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master) (still testing)
 
 [Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master?urlpath=lab) (more full-featured editors)  
 Note: interactive widgets don't work well for me in this yet. 
