@@ -61,7 +61,7 @@ Exams will be given remotely using Respondus Monitor. Note that Tennessee Tech r
 
 #### Exam Schedule:
 
- |
+  Event|  Date
 -----------|-----------
 Exam 1     | October 6
 Exam 2     | November 17
