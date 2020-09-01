@@ -6,8 +6,8 @@ To view the notes properly, you need to either have a sufficient python installa
 
 [Run the notebooks online! All new faster launching!!! Jupyter notebook style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210) (classic- includes video telecon)
 
-[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210&app=lab) (more full-featured editors)  
-Note: interactive widgets don't work well for me in this yet. 
+[//]: [Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210&branch=master&app=lab) (more full-featured editors)  
+[//]: Note: interactive widgets don't work well for me in this yet. 
 
 Individual notebooks (files with the extention ``ipynb``) can be run *within* the virtual machine created with one of the two links in the sentences right above this. 
 
