@@ -4,11 +4,9 @@ Please select the syllabus above to see it rendered to html.
 
 To view the notes properly, you need to either have a sufficient python installation and use Jupyter, or click on one of the links below. 
 
-[Run the notebooks online! Jupyter style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master) (classic- includes video telecon)
+[Run the notebooks online! All new faster launching!!! Jupyter notebook style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210) (classic- includes video telecon)
 
-[All new faster launching](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210) (still testing)
-
-[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/Tennessee_Tech_ECE_3210/master?urlpath=lab) (more full-featured editors)  
+[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210/master?urlpath=lab) (more full-featured editors)  
 Note: interactive widgets don't work well for me in this yet. 
 
 Individual notebooks (files with the extention ``ipynb``) can be run *within* the virtual machine created with one of the two links in the sentences right above this. 
