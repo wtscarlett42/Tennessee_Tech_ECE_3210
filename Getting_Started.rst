@@ -1,25 +1,7 @@
-Getting started with jupyter notebooks
+Getting jupyter notebooks working on your machine.
 ==================================================
 
 .. bibliographic fields (which also require a transform):
-
-:Author: Joseph C. Slater
-:Address: | 201 Clement Hall
-          | 1010 N. Peachtree Avenue
-          | Tennessee Tech University
-          | Cookeville, TN 38505
-:Contact: joseph.c.slater@gmail.com
-:date: Date: 2019-08-25 19:23:53 +0000 (Sunday, 25 August 2019)
-:status: This is a "work in progress"
-:version: 1
-:copyright: This document has been placed in the public domain. You
-            may do with it as you wish. You may copy, modify,
-            redistribute, reattribute, sell, buy, rent, lease,
-            destroy, or improve it, quote it at length, excerpt,
-            incorporate, collate, fold, staple, or mutilate it, or do
-            anything else to it that your or anyone else's heart
-            desires.
-
 
 .. contents:: **Table of Contents**
 .. section-numbering::
