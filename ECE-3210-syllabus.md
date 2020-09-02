@@ -1,9 +1,9 @@
 
 
 # Tennessee Tech University, Department of Electrical and Computer Engineering
-ECE 3210-001: Control Systems Analysis
-Fall Semester, 2020
-Tuesday/Thursday, 12:00 pm - 1:20 pm
+ECE 3210-001: Control Systems Analysis  
+Fall Semester, 2020  
+Tuesday/Thursday, 12:00 pm - 1:20 pm  
 Brown 320
 
 ## Course instructor and contact information
@@ -11,16 +11,21 @@ Brown 320
 [Joseph C. Slater, PhD, PE](https://josephcslater.github.io/josephcslater/)
 [website](https://josephcslater.github.io/josephcslater/): `https://josephcslater.github.io/josephcslater/`
 [email](mailto:jslater@tntech.edu): jslater@tntech.edu (less reliable)
-phone: 931-372-3172 (even less reliable)
-iLearn: (most reliable)
-MSTeams: **I have added you to a class "Team"**. Please make sure you are part of this team if you registered after August 20. Let me know to add you if you are not.  We will be using it during class to share work and communicate during active learning sessions. **Do** use this for communication during class and office hours.
+phone: 931-372-3172 (even less reliable)  
+iLearn: (most reliable)  
+MSTeams: **I have added you to a class "Team"**. Please make sure you are part of this team if you registered after August 20. Let me know to add you if you are not.  We will be using it during class to share work and communicate during active learning sessions. **Do** use this for communication during class and office hours.  
 Office Hours: **Temporarily**, Thursday 11-12. Will be updated based on student availability (via iLearn communication)
 
 ## Materials/References
-Textbook: Modern Control Systems, R. C. Dorf and R. H. Bishop, 13th Edition, Pearson, 2017.
-Learning Management System 1: iLearn
-Learning Management System 2: MS MSTeams
-Supplemental materials: [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210), [Anaconda Python](https://www.anaconda.com/products/individual), Matlab, [Octave](https://www.gnu.org/software/octave/) with [Controls Toolbox](https://wiki.octave.org/Category:Octave_Forge)
+Textbook: Modern Control Systems, R. C. Dorf and R. H. Bishop, 13th Edition, Pearson, 2017.  
+Learning Management System 1: iLearn  
+Learning Management System 2: MS MSTeams  
+Supplemental materials:
+
+- [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210)
+- [Anaconda Python](https://www.anaconda.com/products/individual),
+- [Matlab](https://www.mathworks.com/)
+- [Octave](https://www.gnu.org/software/octave/) with [Controls Toolbox](https://wiki.octave.org/Category:Octave_Forge)
 
 ## Course description
 Modern and classical methods of control system analysis of continuous-time systems. Introduction to design tools.
@@ -32,23 +37,35 @@ PHYS 2110 and C or better in either ECE 3010 or ME 2330.
 Flipped classroom. Online lectures/video with in-class/home problem solving.
 
 ## Course Instructional Outcomes
+
 -   Model dynamical systems using transfer function and state space representation.
+
 -   Analyze the stability of linear invariant systems using Routh-Hurwitz stability.
+
 -   Identify the parameters that characterize the  transient and steady-state performance of LTI systems.
+
 -   Determine analytically the performance parameters for prototype second order systems.
 
 ## Course Topics
+
 1.  Mathematical background: Laplace transform and applications (5%)
+
 2.  Transfer functions and signal-glow graphs: impulse response,
 transfer function, block diagram, signal flow graph (5%)
+
 3.  Frequency domain modeling of physical systems-Transfer Function:
 electric networks, mechanical systems, systems with delays (30%)
+
 4.  Time domain modeling of physical systems-State Space Model: State
 variable state variable, state equation, output equation,
 transition matrix, characteristic equation (10%)
+
 5.  Stability of linear systems: BIBO stability, Routh-Hurwitz stability (10%)
+
 6.  Time Domain analysis of linear systems (15%)
+
 7.  Root-locus technique (15%)
+
 8.  Tests (10%)
 
 ## Grading and Evaluation Procedures
@@ -61,13 +78,13 @@ Exams will be given remotely using Respondus Monitor. Note that Tennessee Tech r
 
 #### Exam Schedule:
 
-  Event|  Date
+  Event    |  Date
 -----------|-----------
 Exam 1     | October 6
 Exam 2     | November 17
 Final Exam | December 8, 10:30-12:30
 
-#### Quizzes
+### Quizzes
 Pop quizzes will be given throughout the semester as needed and be included as part of the Exam grade with a value of 2% each.
 
 ### Homework (20%)
