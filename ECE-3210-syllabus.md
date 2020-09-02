@@ -19,12 +19,15 @@ Office Hours: **Temporarily**, Thursday 11-12. Will be updated based on student 
 ## Materials/References
 Textbook: Modern Control Systems, R. C. Dorf and R. H. Bishop, 13th Edition, Pearson, 2017.  
 Learning Management System 1: iLearn  
-Learning Management System 2: MS MSTeams  
+Learning Management System 2: MS Teams  
 Supplemental materials:
 
 - [GitHub](https://github.com/josephcslater/Tennessee_Tech_ECE_3210)
-- [Anaconda Python](https://www.anaconda.com/products/individual),
+
+- [Anaconda Python](https://www.anaconda.com/products/individual)
+
 - [Matlab](https://www.mathworks.com/)
+
 - [Octave](https://www.gnu.org/software/octave/) with [Controls Toolbox](https://wiki.octave.org/Category:Octave_Forge)
 
 ## Course description
@@ -38,13 +41,13 @@ Flipped classroom. Online lectures/video with in-class/home problem solving.
 
 ## Course Instructional Outcomes
 
--   Model dynamical systems using transfer function and state space representation.
+- Model dynamical systems using transfer function and state space representation.
 
--   Analyze the stability of linear invariant systems using Routh-Hurwitz stability.
+- Analyze the stability of linear invariant systems using Routh-Hurwitz stability.
 
--   Identify the parameters that characterize the  transient and steady-state performance of LTI systems.
+- Identify the parameters that characterize the  transient and steady-state performance of LTI systems.
 
--   Determine analytically the performance parameters for prototype second order systems.
+- Determine analytically the performance parameters for prototype second order systems.
 
 ## Course Topics
 
